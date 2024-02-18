@@ -1,3 +1,6 @@
+# A Repository With Code Connected to the UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) Kaggle Challenge 
+Information about the challenge can be found [here](https://www.kaggle.com/competitions/UBC-OCEAN).
+
 # Guide to Weights & Biases
 
 ## Sign up
